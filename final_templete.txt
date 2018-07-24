@@ -1,0 +1,12 @@
+{
+    "groups":[
+        __groups__
+	,{
+		"keys": "cityBg_jpg,battleBg_jpg,qianchonglou_png,leitai_png,hebitai_png,buildUpLvEf_json,buildUpLvCityNum_png,buildUpLvExp_png,update_complete_json,update_complete_png,building_update_json,building_update_png,loadingBg1_jpg,loadingBg2_jpg,loadingBg3_jpg,loadingBg4_jpg,loadingBg5_jpg,loadingBg6_jpg",
+		"name": "preload"
+	}
+    ],
+    "resources":[
+        __resources__
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "__name",
+    "type": "__image",
+    "url": "__url",
+    "subkeys":"__subkeys"
+},
